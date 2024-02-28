@@ -43,7 +43,7 @@
 
 `<general translation comment lang="PL">`
 
-`<general translation comment lang="SLO">`
+`<general translation comment lang="SLO">`vvv
 
 `<general translation comment lang="CZ">`
 
